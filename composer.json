@@ -1,0 +1,16 @@
+{
+    "name": "wetas/core-mvc-framework",
+    "description": "core of my first mvc framework",
+    "autoload": {
+        "psr-4": {
+            "Wetas\\CoreMvcFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wetas2020",
+            "email": "62056784+wetas2020@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
